@@ -47,7 +47,17 @@
 - 🌐 **[Personal Portfolio](https://portfolio-tau-five-8jxjp2okmh.vercel.app/)** — Explore my projects, skills and technical journey
 
 ---
+### 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushboo0829&show_icons=true&hide_border=true" alt="Khushboo's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo0829&layout=compact&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
 ### 📫 Connect With Me
 
 - 💼 LinkedIn: [Khushboo Kumari](https://www.linkedin.com/in/khushboo-kumari2908)
