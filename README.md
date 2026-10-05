@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="github-banner" src="https://github.com/user-attachments/assets/0aafc042-0acb-47a6-9d72-35321ae1f6d6" />
 <div align="center">
 
 <h1>Hi 👋, I'm Khushboo</h1>
@@ -84,4 +85,6 @@ Turning raw data into meaningful insights through
 <a href="https://portfolio-tau-five-8jxjp2okmh.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-</p>
+</p><img width="2172" height="724" alt="github-banner" src="https://github.com/user-attachments/assets/a33405b6-03aa-4ff3-b117-7ecfb57c9207" />
+<img width="2172" height="724" alt="github-banner" src="https://github.com/user-attachments/assets/ce9a3608-e5bd-42b5-bab6-4da18e1cd725" />
+
