@@ -54,12 +54,14 @@ Turning raw data into meaningful insights through
 
 ---
 
-### 📌 Featured Work
+### 🚀 Featured Work
 
-- 🗃️ **[SQL Practice](https://github.com/Khushboo0829/SQL-Practice)** — Regular SQL problems and solutions to strengthen database querying skills
-- 🤖 **[COVE – Mental Health AI Chatbot](https://github.com/Khushboo0829/COVE-Mental-Health-AI-Chatbot)** — AI-powered chatbot with authentication, conversation history and mood-related features
-- 💻 **[CodeFlow Visualizer](https://github.com/Khushboo0829/CodeFlow-Visualizer)** — Interactive web tool for visualizing code execution step-by-step
-- 🌐 **[Personal Portfolio](https://portfolio-tau-five-8jxjp2okmh.vercel.app/)** — Explore my projects, skills and technical journey
+| Project | What I Built |
+|---|---|
+| 🗃️ **[SQL Practice](https://github.com/Khushboo0829/SQL-Practice)** | Regular SQL problems and solutions focused on database querying and analytical skills |
+| 🤖 **[COVE – Mental Health AI Chatbot](https://github.com/Khushboo0829/COVE-Mental-Health-AI-Chatbot)** | AI chatbot with authentication, conversation history, mood detection, and mood tracking |
+| 💻 **[CodeFlow Visualizer](https://github.com/Khushboo0829/CodeFlow-Visualizer)** | Interactive tool for visualizing code execution and programming logic step-by-step |
+| 🌐 **[Personal Portfolio](https://portfolio-tau-five-8jxjp2okmh.vercel.app/)** | Portfolio showcasing my projects, technical skills, and learning journey |
 
 ---
 
@@ -75,4 +77,11 @@ Turning raw data into meaningful insights through
 ---
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: [Khushboo Kumari](https://www.linkedin.com/in/khushboo-kumari2908)
+<p>
+<a href="https://www.linkedin.com/in/khushboo-kumari2908">
+  <img src="https://img.shields.io/badge/LinkedIn-Khushboo_Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://portfolio-tau-five-8jxjp2okmh.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
