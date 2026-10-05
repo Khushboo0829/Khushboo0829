@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Khushboo</h1>
-<h3 align="center">Data Analytics Enthusiast | Turning Data into Meaningful Insights 📊</h3>
+<div align="center">
+
+<h1>Hi 👋, I'm Khushboo</h1>
+
+<h3>Data Analytics Enthusiast 📊</h3>
+
+<p>
+Turning raw data into meaningful insights through
+<strong>SQL • Excel • Power BI • Data Visualization</strong>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Data_Visualization-4285F4?style=flat-square&logo=googleanalytics&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 MCA student with an interest in Data Analytics and Business Analytics
-- 📊 Currently building my skills in **SQL, Microsoft Excel, Power BI, and Data Visualization**
-- 🗃️ Practicing **SQL regularly** and documenting my progress on GitHub
-- 💻 I also have experience with **Java, DSA, Web Development, and project development**
-- 🌱 Currently focused on strengthening my analytical and problem-solving skills
-- 🎯 Interested in opportunities related to **Data Analytics, Business Analytics, Reporting, and Operations Analytics**
-
+- 🎓 MCA student with a strong interest in **Data Analytics and Business Analytics**
+- 📊 Building hands-on skills in **SQL, Microsoft Excel, Power BI, and Data Visualization**
+- 🗃️ Practicing **SQL regularly** and documenting my learning through projects on GitHub
+- 💻 Technical foundation in **Java, DSA, Web Development, and project development**
+- 🎯 Open to opportunities in **Data Analytics, Business Analytics, Reporting, and Operations Analytics**
 ---
 
 ### 🛠️ Skills & Tools
