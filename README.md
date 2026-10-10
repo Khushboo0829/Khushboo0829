@@ -3,7 +3,7 @@
 
 <h1>Hi 👋, I'm Khushboo</h1>
 
-<h3>Data Analytics Enthusiast 📊</h3>
+<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Data+Analytics+Enthusiast;SQL+%7C+Excel+%7C+Power+BI;Exploring+Data+Visualization;Turning+Data+Into+Meaningful+Insights" alt="Animated typing introduction" /> </p>
 
 <p>
 Turning raw data into meaningful insights through
