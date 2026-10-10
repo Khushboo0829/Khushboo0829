@@ -135,6 +135,18 @@ A personal website showcasing technical skills, projects, and my learning journe
 
 ---
 
+### 🎯 Currently Focusing On
+
+| Area | What I'm Working On |
+|---|---|
+| 🗃️ **SQL** | Practicing queries, database concepts, and analytical problem-solving |
+| 📗 **Microsoft Excel** | Learning formulas, data cleaning, and spreadsheet analysis |
+| 📊 **Power BI** | Exploring interactive dashboards and data visualization |
+| 📈 **Data Analytics** | Strengthening analytical thinking through hands-on projects |
+| 💼 **Business Analytics** | Learning how data supports business decisions |
+
+---
+
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -154,5 +166,6 @@ A personal website showcasing technical skills, projects, and my learning journe
 <a href="https://portfolio-tau-five-8jxjp2okmh.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+</p>
 
 
