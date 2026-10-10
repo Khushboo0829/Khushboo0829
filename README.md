@@ -57,12 +57,81 @@ Turning raw data into meaningful insights through
 
 ### 🚀 Featured Work
 
-| Project | Focus | Highlights |
-|---|---|---|
-| 🗃️ **[SQL Practice](https://github.com/Khushboo0829/SQL-Practice)** | Data Analytics | SQL querying • Database concepts • Regular problem solving |
-| 🤖 **[COVE – Mental Health AI Chatbot](https://github.com/Khushboo0829/COVE-Mental-Health-AI-Chatbot)** | AI & Web Development | Gemini API • Authentication • Chat history • Mood tracking |
-| 💻 **[CodeFlow Visualizer](https://github.com/Khushboo0829/CodeFlow-Visualizer)** | Web Development | Code visualization • Programming logic • Interactive learning |
-| 🌐 **[Personal Portfolio](https://portfolio-tau-five-8jxjp2okmh.vercel.app/)** | Portfolio | Projects • Technical skills • Learning journey |
+<details>
+<summary><b>📊 SQL Practice — Data Analytics</b></summary>
+
+### SQL Practice
+
+A collection of SQL practice problems focused on developing database querying and analytical problem-solving skills.
+
+**Technologies:** SQL, PostgreSQL
+
+**Highlights:**
+- SQL queries and database concepts
+- Data filtering, sorting, and aggregation
+- Regular practice and problem-solving
+
+🔗 [View Repository](https://github.com/Khushboo0829/SQL-Practice)
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🤖 COVE — Mental Health AI Chatbot</b></summary>
+
+### COVE — Mental Health AI Chatbot
+
+An AI-powered chatbot designed to provide a conversational mental health support experience.
+
+**Technologies:** Gemini API, Supabase, Web Development
+
+**Highlights:**
+- AI-powered conversations
+- Secure authentication and chat history
+- Mood detection and tracking
+
+🔗 [View Repository](https://github.com/Khushboo0829/COVE-Mental-Health-AI-Chatbot)
+
+</details>
+
+<br>
+
+<details>
+<summary><b>💻 CodeFlow Visualizer — Interactive Learning Tool</b></summary>
+
+### CodeFlow Visualizer
+
+An interactive web-based project that helps beginners understand how code executes step by step.
+
+**Focus:** Web Development, Programming Education
+
+**Highlights:**
+- Step-by-step code visualization
+- Understanding variables and programming logic
+- Interactive learning experience
+
+🔗 [View Repository](https://github.com/Khushboo0829/CodeFlow-Visualizer)
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🌐 Personal Portfolio — Projects & Skills</b></summary>
+
+### Personal Portfolio
+
+A personal website showcasing technical skills, projects, and my learning journey.
+
+**Highlights:**
+- Project showcase
+- Technical skills
+- Professional portfolio presentation
+
+🔗 [Visit Portfolio](https://portfolio-tau-five-8jxjp2okmh.vercel.app/)
+
+</details>
 
 ---
 
