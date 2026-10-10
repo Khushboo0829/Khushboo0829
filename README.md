@@ -147,14 +147,31 @@ A personal website showcasing technical skills, projects, and my learning journe
 
 ---
 
+### 🎓 Certifications & Job Simulations
+
+| Program | Provider | Completed |
+|---|---|---|
+| 📊 **SQL for Data Analysis** | Simplilearn SkillUp | Aug 2026 |
+| 📈 **Data Visualisation: Empowering Business with Effective Insights** | Tata / Forage | Jul 2026 |
+| 🤖 **GenAI Powered Data Analytics Job Simulation** | Tata / Forage | Jul 2026 |
+| 📉 **Data Analytics Job Simulation** | Deloitte / Forage | Jun 2026 |
+| 🧠 **Introduction to Modern AI** | Cisco Networking Academy | Jul 2026 |
+| 💼 **Operations Analyst Job Simulation** | London Insurance Life / Forage | Sep 2026 |
+
+---
+
 ### 📊 GitHub Activity
+
+<h3>📈 Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khushboo0829&theme=tokyonight" alt="Khushboo's GitHub Contribution Activity" width="100%" />
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushboo0829&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Khushboo0829&theme=tokyonight&hide_border=true" />
+  <img width="51%" src="https://streak-stats.demolab.com/?user=Khushboo0829&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 ---
 ### 📫 Connect With Me
